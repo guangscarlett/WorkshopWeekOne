@@ -46,5 +46,6 @@ p1 <- ggplot(data = team_data,
 p1
 ```
 
-*Remove this text (including the stars), and add your answer for Exercise 18 here.*
+Ignors team members' hobbies. Focuses on favourite numbers and colors. 
+
 
